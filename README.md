@@ -8,3 +8,5 @@
 
 # 실행 화면
 
+![ezgif com-video-to-gif (2)](https://github.com/taeyoonL/Date_Picker_Practice1/assets/132141316/a98864b5-6cca-47b3-87f4-9aadea8e5c79)
+
